@@ -12,5 +12,7 @@ A Xamarin Forms demo solution using ReactiveUI.
 
 
 ## License
-The MIT License (MIT) Copyright (c) 201§5 Refractored LLC / Jan Tourlamain
+The MIT License (MIT) Copyright (c) 2015 Refractored LLC / Jan Tourlamain
+
+See latest License file [here](https://github.com/jtourlamain/DevProtocol.Xam.RuiDemo/blob/master/License).
 
