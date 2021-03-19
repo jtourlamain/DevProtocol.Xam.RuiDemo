@@ -12,7 +12,7 @@ A Xamarin Forms demo solution using ReactiveUI.
 
 ## More info
 
-[http://www.devprotocol.com/getting-started-with-xamarin-forms-and-reactiveui/](http://www.devprotocol.com/getting-started-with-xamarin-forms-and-reactiveui/)
+[https://www.devprotocol.com/2016/07/06/getting-started-with-xamarin-forms-and-reactiveui.html](https://www.devprotocol.com/2016/07/06/getting-started-with-xamarin-forms-and-reactiveui.html)
 
 ## License
 The MIT License (MIT) Copyright (c) 2016 Refractored LLC / Jan Tourlamain
